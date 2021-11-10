@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## V2rayNG Vietnamese
 
 You can use the [editor on GitHub](https://github.com/cuynu/v2rayvn/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
